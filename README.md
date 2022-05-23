@@ -4,8 +4,6 @@
 
 > Leaderboard
 
-https://user-images.githubusercontent.com/98363075/168385071-eef76128-98c1-4470-9dd2-a9e2707f1d12.mp4
-
 ## Built With
 
 - HTML
@@ -14,11 +12,9 @@ https://user-images.githubusercontent.com/98363075/168385071-eef76128-98c1-4470-
 
 ## Live Demo
 
-[Leaderboard Live Demo](https://santiago220991.github.io/Leaderboard/dist/)
+not yet deployed
 
 ## Getting Started
-
-**This is a Leaderboard web page built using a leaderboard API to store the scores. It shows a simple design with the next features:**
 
 - Add a new Name and Score.
 
@@ -39,18 +35,19 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Author**
+👤 **Author1**:- **Yilikal Teshome**
 
-- GitHub: [@githubhandle](https://github.com/Santiago220991) 
-- Twitter: [@twitterhandle](https://twitter.com/SanCardenas10)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/santiago-cárdenas-671043160/)
+- GitHub: [@Yilikal250](https://github.com/githubhandle)
+- Twitter: [@@TeshomeYilikal](https://twitter.com/twitterhandle)
+- LinkedIn: [teshomeyilikal250@gmail.com](https://linkedin.com/in/linkedinhandle)
+
 
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Santiago220991/Leaderboard/issues).
+Feel free to check the [issues page](https://github.com/Yilikal250/Leaderboard/issues).
 
 ## Acknowledgments
 
